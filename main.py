@@ -1,6 +1,6 @@
 import streamlit as st
 import os
-import importlib.util
+import importlib
 import base64
 
 # 페이지 설정
